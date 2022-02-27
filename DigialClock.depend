@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1643901867 source:d:\clock\digialclock\main.cpp
+	<iostream>
+	<stdio.h>
+	<conio.h>
+	<windows.h>
+
